@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ana Beatriz</h1>
 <h3 align="center">Sou DBA Oracle migrando para a área de Data Science.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anna-scy&label=Profile%20views&color=0e75b6&style=flat" alt="anna-scy" /> </p>
-
 - 🔭 I’m currently working on **-**
 
 - 🌱 I’m currently learning **Python, MongoDB, PostgreSQL, Azure, AI/ML.**
