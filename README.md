@@ -3,8 +3,7 @@
 # 🌱 Atualmente estou aprendendo os seguintes assuntos:
 
 
-![Badge](https://simpleicons.org/icons/python.svg)
-
+![Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
 <img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
 ### Hi 👋
