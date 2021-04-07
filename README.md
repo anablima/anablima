@@ -1,35 +1,36 @@
-# Olá 👋
+<h1 align="center">Hi 👋, I'm Ana Beatriz</h1>
+<h3 align="center">Sou DBA Oracle migrando para a área de Data Science.</h3>
 
-# 🌱 Atualmente estou aprendendo os seguintes assuntos:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anna-scy&label=Profile%20views&color=0e75b6&style=flat" alt="anna-scy" /> </p>
 
+- 🔭 I’m currently working on **-**
 
-![Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
+- 🌱 I’m currently learning **Python, MongoDB, PostgreSQL, Azure, AI/ML.**
 
+- 👯 I’m looking to collaborate on **-**
 
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+- 🤝 I’m looking for help with **-**
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=anna-scy)
+- 👨‍💻 All of my projects are available at [-](-)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anna-scy&layout=compact)](https://github.com/anna-scy/anna-scy)
+- 📝 I regularly write articles on [-](-)
 
+- 📫 How to reach me **-**
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anabeatriz-lima/)
+- 📄 Know about my experiences [-](-)
 
+- ⚡ Fun fact **Enquanto cursava Sistemas de Informação na universidade não gostava de programar, pois a linguagem que aprendemos foi Java e sempre foi muito complexo pra mim. Agora gosto de programar porque descobri a linguagem Python, cada dia mais mudo a cabeça no quesito aprender graças a essa linguagem. Tks Python!**
 
-<!--
-**anna-scy/anna-scy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/anabeatriz-lima" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anabeatriz-lima" height="30" width="40" /></a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anna-scy&show_icons=true&locale=en&layout=compact" alt="anna-scy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anna-scy&show_icons=true&locale=en" alt="anna-scy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anna-scy&" alt="anna-scy" /></p>
