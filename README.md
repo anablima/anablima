@@ -15,7 +15,7 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=anna-scy)
 
-[<img src="https://simpleicons.org/icons/linkedin.svg" />](https://www.linkedin.com/in/anabeatriz-lima/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anabeatriz-lima/)
 
 
 <!--
