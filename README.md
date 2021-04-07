@@ -1,6 +1,12 @@
-### Olá 👋
+# Olá 👋
 
-## 🌱 I’m currently learning Python
+# 🌱 Atualmente estou aprendendo os seguintes assuntos:
+Python
+
+![Badge](https://simpleicons.org/icons/python.svg)
+
+
+
 
 <!--
 **anna-scy/anna-scy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
