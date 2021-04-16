@@ -1,23 +1,26 @@
 <h1 align="center">Hi 👋, I'm Ana Beatriz</h1>
-<h3 align="center">Sou DBA Oracle migrando para a área de Data Science.</h3>
+<h3 align="center">Sou DBA Oracle migrando para a área de Data Science e exploradora do mundo Python.</h3>
 
-- 🔭 I’m currently working on **-**
+🔭 I’m currently working on **-**
 
-- 🌱 I’m currently learning **Python, MongoDB, PostgreSQL, Azure, AI/ML.**
+- 🌱 I’m currently learning: **Python, MongoDB, PostgreSQL, Azure, AI/ML.**
+- 🌱 Atualmente estou aprendendo os seguintes temas: **Python, MongoDB, PostgreSQL, Azure, AI/ML.**
 
-- 👯 I’m looking to collaborate on **-**
+👯 I’m looking to collaborate on **-**
 
-- 🤝 I’m looking for help with **-**
+🤝 I’m looking for help with **-**
 
 - 👨‍💻 All of my projects are available at [-](-)
 
-- 📝 I regularly write articles on [-](-)
+ 📝 I regularly write articles on [-](-)
 
-- 📫 How to reach me **-**
+📫 How to reach me **-**
 
-- 📄 Know about my experiences [-](-)
+📄 Know about my experiences [-](-)
 
-- ⚡ Fun fact **Enquanto cursava Sistemas de Informação na universidade não gostava de programar, pois a linguagem que aprendemos foi Java e sempre foi muito complexo pra mim. Agora gosto de programar porque descobri a linguagem Python, cada dia mais mudo a cabeça no quesito aprender graças a essa linguagem. Tks Python!**
+- ⚡ Fun fact about me: **While studying Information Systems at the university, I did not like the program, because the language we learned was Java and it was always very complex for me. Now I like to program because I discovered a Python language, every day I change my mind when it comes to learning thanks to that language. Python Tks!**
+
+- ⚡ Fato engraçado sobre mim: **Enquanto cursava Sistemas de Informação na universidade não gostava de programar, pois a linguagem que aprendemos foi Java e sempre foi muito complexo pra mim. Agora gosto de programar porque descobri a linguagem Python, cada dia mais mudo a cabeça no quesito aprender graças a essa linguagem. Tks Python!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
