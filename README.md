@@ -20,8 +20,8 @@
 
 - ⚡ Fato engraçado sobre mim: **Enquanto cursava Sistemas de Informação na universidade não gostava de programar, pois a linguagem que aprendemos foi Java e sempre foi muito complexo pra mim. Agora gosto de programar porque descobri a linguagem Python, cada dia mais mudo a cabeça no quesito aprender graças a essa linguagem. Tks Python!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/anabeatriz-lima" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="anabeatriz-lima" height="30" width="40" /></a>
 </p>
 
