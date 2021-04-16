@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **Python, MongoDB, PostgreSQL, Azure, AI/ML.**
 
-- ⚡ Fun fact about me: **While studying Information Systems at the university, I did not like the program, because the language we learned was Java and it was always very complex for me. Now I like to program because I discovered a Python language, every day I change my mind when it comes to learning thanks to that language. Python Tks!**
+- ⚡ Fun fact about me: **While studying Information Systems at the university, I did not like the program, because the language we learned was Java and it was always very complex for me. Now I like to program because I discovered a Python language, every day I change my mind when it comes to learning thanks to that language. Tks Python!**
 
 
 <h1 align="center">   </h1>
