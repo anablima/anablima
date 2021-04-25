@@ -10,7 +10,7 @@
 ### :brain: Conhecimentos:
 
 ### :computer: Linguagens e Bibliotecas:
-> * :snake: ![Python](https://img.shields.io/badge/-Python-brightgreen) ![Pandas](https://img.shields.io/badge/-Pandas-181717?&logo=Pandas&logoColor=FFFFFF)
+> * :snake: ![Python](https://img.shields.io/badge/-Python-181717?&logo=Python&logoColor=brightgreen) ![Pandas](https://img.shields.io/badge/-Pandas-181717?&logo=Pandas&logoColor=FFFFFF)
 
 ### 📦 Databases:
 > * ![Oracle Database](https://img.shields.io/badge/-Oracle%20Database-red) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-blue) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
