@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, sou a Ana Beatriz</h1>
+<h1 align="center">Olá 👋, sou a Ana Beatriz :blush:</h1>
 
 ### :girl: Sobre mim :)
 > * 🛠️ Trabalho como DBA há 2 anos, mas estou desenvolvendo conhecimentos em Data Science para me tornar uma **Cientista de dados**.
