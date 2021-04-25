@@ -16,7 +16,7 @@
 > * ![Oracle](https://img.shields.io/badge/-Oracle-181717?&logo=Oracle&logoColor=red) ![SQL Server](https://img.shields.io/badge/-SQLServer-181717?&logo=SQLServer&logoColor=blue) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?&logo=PostgreSQL&logoColor=9cf)
 
 ### 🧰 Ferramentas:
-> * ![Git](https://img.shields.io/badge/-Git-181717?&logo=git&logoColor=orange) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=blueviolet) ![JIRA](https://img.shields.io/badge/-JIRA-181717?&logo=JIRA&logoColor=blue) ![ServiceNow](https://img.shields.io/badge/-ServiceNow-181717?&logo=ServiceNow&logoColor=FFFFFF)
+> * ![Git](https://img.shields.io/badge/-Git-181717?&logo=git&logoColor=orange) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=blueviolet) ![JIRA](https://img.shields.io/badge/-JIRA-181717?&logo=JIRA&logoColor=blue) ![ServiceNOW](https://img.shields.io/badge/-ServiceNow-181717?&logo=ServiceNow&logoColor=FFFFFF)
 
 ### Cloud Computing:
 > * ![AWS](https://img.shields.io/badge/-AWS-181717?&logo=AWS&logoColor=orange) ![Oracle](https://img.shields.io/badge/-Oracle-181717?&logo=Oracle&logoColor=red) ![Azure](https://img.shields.io/badge/-Azure-181717?&logo=Azure&logoColor=9cf)
