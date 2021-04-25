@@ -13,7 +13,7 @@
 > * :snake: ![Python](https://img.shields.io/badge/-Python-181717?&logo=Python&logoColor=9cf) ![Pandas](https://img.shields.io/badge/-Pandas-181717?&logo=Pandas&logoColor=9cf)
 
 ### 📦 Databases:
-> * ![OracleDatabase](https://img.shields.io/badge/-OracleDatabase-181717?&logo=OracleDatabase&logoColor=red) ![SQLServer](https://img.shields.io/badge/-SQLServer-181717?&logo=SQLServer&logoColor=blue) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?&logo=PostgreSQL&logoColor=blue)
+> * ![Oracle](https://img.shields.io/badge/-Oracle-181717?&logo=Oracle&logoColor=red) ![SQL](https://img.shields.io/badge/-SQL-181717?&logo=SQL&logoColor=blue) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?&logo=PostgreSQL&logoColor=9cf)
 
 ### 🧰 Ferramentas:
 > * ![Git](https://img.shields.io/badge/-Git-181717?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) ![JIRA](https://img.shields.io/badge/-JIRA-181717?&logo=JIRA&logoColor=FFFFFF) ![ServiceNow](https://img.shields.io/badge/-ServiceNow-181717?&logo=ServiceNow&logoColor=FFFFFF)
