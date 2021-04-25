@@ -10,7 +10,7 @@
 ### :brain: Conhecimentos:
 
 ### :computer: Linguagens e Bibliotecas:
-> * :snake: ![Python](https://img.shields.io/badge/-Python-brightgreen?&logo=Python&logoColor=FFFFFF) ![Pandas](https://img.shields.io/badge/-Pandas-181717?&logo=Pandas&logoColor=FFFFFF)
+> * :snake: ![Python](https://img.shields.io/badge/-Python-brightgreen?&logo=Python&logoColor=blue) ![Pandas](https://img.shields.io/badge/-Pandas-181717?&logo=Pandas&logoColor=FFFFFF)
 
 ### 📦 Databases:
 > * ![Oracle Database](https://img.shields.io/badge/-Oracle%20Database-red) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-blue) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
@@ -20,11 +20,6 @@
 
 ### Cloud Computing:
 > * ![AWS](https://img.shields.io/badge/-AWS-181717?&logo=AWS&logoColor=FFFFFF) ![Oracle Cloud](https://img.shields.io/badge/-OracleCloud-181717?&logo=OracleCloud&logoColor=#EC4D37) ![Azure](https://img.shields.io/badge/-Azure-181717?&logo=Azure&logoColor=FFFFFF)
-
-
-### ⚡ Conhecimentos :
-> * ![Python](https://img.shields.io/badge/-Python-181717?&logo=Python&logoColor=FFFFFF) ![Selenium](https://img.shields.io/badge/-Selenium-181717?&logo=Selenium&logoColor=FFFFFF) ![Pandas](https://img.shields.io/badge/-Pandas-181717?&logo=Pandas&logoColor=FFFFFF) ![WebScraping](https://img.shields.io/badge/-Web%20Scraping-181717?&logo=WebStorm&logoColor=FFFFFF)
-
 
 ---------------
 
