@@ -19,7 +19,7 @@
 > * ![Git](https://img.shields.io/badge/-Git-181717?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) ![JIRA](https://img.shields.io/badge/-JIRA-181717?&logo=JIRA&logoColor=FFFFFF) ![ServiceNow](https://img.shields.io/badge/-ServiceNow-181717?&logo=ServiceNow&logoColor=FFFFFF)
 
 ### Cloud Computing:
-> * ![AWS](https://img.shields.io/badge/-AWS-181717?&logo=AWS&logoColor=FFFFFF) ![Oracle Cloud](https://img.shields.io/badge/-OracleCloud-181717?&logo=OracleCloud&logoColor=EF5455) ![Azure](https://img.shields.io/badge/-Azure-181717?&logo=Azure&logoColor=FFFFFF)
+> * ![AWS](https://img.shields.io/badge/-AWS-181717?&logo=AWS&logoColor=FFFFFF) ![Oracle Cloud](https://img.shields.io/badge/-OracleCloud-181717?&logo=OracleCloud&logoColor=#EC4D37) ![Azure](https://img.shields.io/badge/-Azure-181717?&logo=Azure&logoColor=FFFFFF)
 
 ---------------
 
