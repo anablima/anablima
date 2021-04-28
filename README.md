@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou a Ana Beatriz :blush:</h1>
 
 ## :nerd_face: Sobre mim:
-> * 🛠️ Trabalho como DBA há 2 anos, mas estou desenvolvendo conhecimentos em Data Science para me tornar uma **Cientista de dados**.
+> * 🛠️ Trabalho como DBA há 2 anos, mas estou desenvolvendo conhecimentos em Data Science para me tornar uma **Cientista de Dados**.
 > * 🌱 Atualmente estou aprendendo os seguintes temas: **Python, MongoDB, PostgreSQL, Azure, AWS, Inteligência Artificial e Machine Learning.**
 > * ⚡ Fato engraçado sobre mim: **Enquanto cursava Sistemas de Informação na universidade não gostava de programar, pois a linguagem que aprendemos foi Java e sempre foi muito complexo pra mim. Agora gosto de programar porque descobri a linguagem Python, cada dia mais mudo a cabeça no quesito aprender graças a essa linguagem. Tks Python!**
 
