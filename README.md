@@ -29,6 +29,9 @@
 ### 🐧 OS:
 > * ![Linux](https://img.shields.io/badge/-Linux-181717?&logo=Linux&logoColor=9cf) ![Windows](https://img.shields.io/badge/-Windows-181717?&logo=Windows&logoColor=blue)
 
+### 📲:
+> * ![Kaggle](https://www.kaggle.com/anabflima) ![LinkedIn](https://www.linkedin.com/in/anabeatriz-lima/)
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=anablima&show_icons=true&hide_border=true&theme=dracula&show_icons=true)
 
 ### 📈 Linguagens com +commits:
