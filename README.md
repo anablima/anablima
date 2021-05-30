@@ -32,6 +32,8 @@
 ### 📲 Social Networks:
 > * [Kaggle](https://www.kaggle.com/anabflima) 
 > * [LinkedIn](https://www.linkedin.com/in/anabeatriz-lima/)
+> * [Blog](https://anablima.github.io/MyBlog//)
+> * [Instagram](https://www.instagram.com/anab.flima/)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=anablima&show_icons=true&hide_border=true&theme=dracula&show_icons=true)
 
