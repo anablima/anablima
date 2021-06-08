@@ -35,7 +35,7 @@
 > * [Blog](https://anablima.github.io/MyBlog//)
 > * [Instagram](https://www.instagram.com/anab.flima/)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=anablima&show_icons=true&hide_border=true&theme=dracula&show_icons=true)
+/*![github stats](https://github-readme-stats.vercel.app/api?username=anablima&show_icons=true&hide_border=true&theme=dracula&show_icons=true)*/
 
 ### 📈 Linguagens com +commits:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anablima&layout=hide_border=true&theme=dracula&show_icons=true&hide=SCSS,JavaScript)
