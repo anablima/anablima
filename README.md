@@ -32,8 +32,6 @@
 ### 📲 Social Networks:
 > * [Kaggle](https://www.kaggle.com/anabflima) 
 > * [LinkedIn](https://www.linkedin.com/in/anabeatriz-lima/)
-[> * [Blog](https://anablima.github.io/MyBlog//)]: <>
-> * [Instagram](https://www.instagram.com/anab.flima/)
 
 ### 📈 Linguagens com +commits:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anablima&layout=hide_border=true&theme=dracula&show_icons=true&hide=SCSS,JavaScript)
