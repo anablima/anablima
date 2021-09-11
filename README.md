@@ -32,7 +32,7 @@
 ### 📲 Social Networks:
 > * [Kaggle](https://www.kaggle.com/anabflima) 
 > * [LinkedIn](https://www.linkedin.com/in/anabeatriz-lima/)
-[//]: <> * [Blog](https://anablima.github.io/MyBlog//) > 
+<> * [Blog](https://anablima.github.io/MyBlog//) > 
 > * [Instagram](https://www.instagram.com/anab.flima/)
 
 ### 📈 Linguagens com +commits:
