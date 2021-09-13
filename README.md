@@ -2,7 +2,7 @@
 
 ## :nerd_face: Sobre mim:
 > * 🛠️ Trabalho como **DBA Oracle** há 2 anos, mas estou desenvolvendo conhecimentos em **Data Science**, por ser muito curiosa em relação a essa área da tecnologia.
-> * 🌱 Atualmente estou aprendendo os seguintes temas: **Python, MongoDB, PostgreSQL, Azure, AWS Services, Inteligência Artificial e Machine Learning.**
+> * 🌱 Atualmente estou aprendendo os seguintes temas: **Python, AWS Services, Inteligência Artificial e Machine Learning.**
 > * ⚡ Fato engraçado sobre mim: **Enquanto cursava Sistemas de Informação na universidade não gostava de programar, pois a linguagem que aprendemos foi Java e sempre foi muito complexo pra mim. Agora gosto de programar porque descobri a linguagem Python, cada dia mais mudo a cabeça no quesito aprender graças a essa linguagem. Tks Python!**
 
 -------------------------------------------------------
