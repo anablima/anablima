@@ -30,8 +30,8 @@
 > ![Linux](https://img.shields.io/badge/-Linux-181717?&logo=Linux&logoColor=9cf) ![Windows](https://img.shields.io/badge/-Windows-181717?&logo=Windows&logoColor=blue)
 
 ### 📲 Social Networks:
-> [Kaggle](https://www.kaggle.com/anabflima) 
-> [LinkedIn](https://www.linkedin.com/in/anabeatriz-lima/)
+> * [Kaggle](https://www.kaggle.com/anabflima) 
+> * [LinkedIn](https://www.linkedin.com/in/anabeatriz-lima/)
 
 ### 📈 Linguagens com +commits:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anablima&layout=hide_border=true&theme=dracula&show_icons=true&hide=SCSS,JavaScript)
