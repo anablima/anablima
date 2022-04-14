@@ -35,5 +35,3 @@
 
 ### 📈 Linguagens com +commits:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anablima&layout=hide_border=true&theme=dracula&show_icons=true&hide=SCSS,JavaScript)
-
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
