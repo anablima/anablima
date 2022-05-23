@@ -1,18 +1,18 @@
 <h1 align="center">Olá 👋, sou a Ana Beatriz :blush:</h1>
 
-## :nerd_face: Sobre mim:
-> * 🛠️ Trabalho como **DBA Oracle** há 2 anos, mas estou desenvolvendo conhecimentos em **Data Science**, por ser muito curiosa em relação a essa área da tecnologia.
+## 🤓 Sobre mim:
+> * 🛠️ **Data Engineer** em desenvolvimento 🥰.
 > * 🌱 Atualmente estou aprendendo os seguintes temas: **Python, AWS Services, Inteligência Artificial e Machine Learning.**
 > * ⚡ Fato engraçado sobre mim: **Enquanto cursava Sistemas de Informação na universidade não gostava de programar, pois a linguagem que aprendemos foi Java e sempre foi muito complexo pra mim. Agora gosto de programar porque descobri a linguagem Python, cada dia mais mudo a cabeça no quesito aprender graças a essa linguagem. Tks Python!**
 
 -------------------------------------------------------
 
-## :brain: Conhecimentos:
+## 🧠 Conhecimentos:
 
-### :computer: Linguagens e Bibliotecas:
+### 💻 Linguagens e Bibliotecas:
 > ![Python](https://img.shields.io/badge/-Python-181717?&logo=Python&logoColor=9cf) ![Pandas](https://img.shields.io/badge/-Pandas-181717?&logo=Pandas&logoColor=9cf) ![Seaborn](https://img.shields.io/badge/-Seaborn-181717?&logo=Seaborn&logoColor=9cf) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-181717?&logo=Matplotlib&logoColor=9cf)
 
-### 📦 Databases:
+### 🎲 Databases:
 > ![Oracle](https://img.shields.io/badge/-Oracle-181717?&logo=Oracle&logoColor=red) ![SQL Server](https://img.shields.io/badge/-SQLServer-181717?&logo=SQLServer&logoColor=blue) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?&logo=PostgreSQL&logoColor=9cf)
 
 ### 🧰 Ferramentas:
@@ -23,7 +23,7 @@
 
 ---------------
 
-### :heart: IDE'S:
+### 💓: IDE'S:
 > ![VSCode](https://img.shields.io/badge/-VSCode-181717?&logo=Visual%20Studio%20Code&logoColor=9cf) ![PyCharm](https://img.shields.io/badge/-PyCharm-181717?&logo=PyCharm&logoColor=blueviolet)
 
 ### 🐧 OS:
