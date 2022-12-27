@@ -1,4 +1,4 @@
-<h1>**PT-BR**</h1>
+#### **PT-BR**
 <h1 align="center">Olá 👋, sou a Ana Beatriz :blush:</h1>
 
 ## 🤓 Sobre mim:
@@ -37,7 +37,7 @@
 ### 📈 Linguagens com +commits:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anablima&layout=hide_border=true&theme=dracula&show_icons=true&hide=SCSS,JavaScript)
 
-<h1>**EN-US**</h1>
+#### **EN-US**
 <h1 align="center">Hi 👋, I'm Ana Beatriz :blush:</h1>
 
 ## 🤓 About me:
