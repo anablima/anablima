@@ -20,7 +20,7 @@
 > ![Git](https://img.shields.io/badge/-Git-181717?&logo=git&logoColor=orange) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github&logoColor=blueviolet) ![JIRA](https://img.shields.io/badge/-JIRA-181717?&logo=jira&logoColor=blue) ![ServiceNow](https://img.shields.io/badge/-ServiceNow-181717?&logo=ServiceNow&logoColor=FFFFFF) ![IPC](https://img.shields.io/badge/ETL-Informatica%20Power%20Center-orange)
 
 ### Cloud Computing:
-> ![AWS Services](https://img.shields.io/badge/-AWS Services-181717?&logo=amazonaws&logoColor=orange) ![Oracle](https://img.shields.io/badge/-Oracle-181717?&logo=Oracle&logoColor=red) ![Azure](https://img.shields.io/badge/-Azure-181717?&logo=microsoftazure&logoColor=9cf)
+> ![AWS Services](https://img.shields.io/badge/-AWS-181717?&logo=amazonaws&logoColor=orange) ![Oracle](https://img.shields.io/badge/-Oracle-181717?&logo=Oracle&logoColor=red) ![Azure](https://img.shields.io/badge/-Azure-181717?&logo=microsoftazure&logoColor=9cf)
 
 ---------------
 
@@ -59,7 +59,7 @@
 > ![Git](https://img.shields.io/badge/-Git-181717?&logo=git&logoColor=orange) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github&logoColor=blueviolet) ![JIRA](https://img.shields.io/badge/-JIRA-181717?&logo=jira&logoColor=blue) ![ServiceNow](https://img.shields.io/badge/-ServiceNow-181717?&logo=ServiceNow&logoColor=FFFFFF) ![IPC](https://img.shields.io/badge/ETL-Informatica%20Power%20Center-orange)
 
 ### Cloud Computing:
-> ![AWS Services](https://img.shields.io/badge/-AWS Services-181717?&logo=amazonaws&logoColor=orange) ![Oracle](https://img.shields.io/badge/-Oracle-181717?&logo=Oracle&logoColor=red) ![Azure](https://img.shields.io/badge/-Azure-181717?&logo=microsoftazure&logoColor=9cf)
+> ![AWS Services](https://img.shields.io/badge/-AWS-181717?&logo=amazonaws&logoColor=orange) ![Oracle](https://img.shields.io/badge/-Oracle-181717?&logo=Oracle&logoColor=red) ![Azure](https://img.shields.io/badge/-Azure-181717?&logo=microsoftazure&logoColor=9cf)
 
 ---------------
 
