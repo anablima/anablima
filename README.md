@@ -34,8 +34,8 @@
 > * [Kaggle](https://www.kaggle.com/anabflima) 
 > * [LinkedIn](https://www.linkedin.com/in/anabeatriz-lima/)
 
-### 📈 Linguagens com +commits:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anablima&layout=hide_border=true&theme=dracula&show_icons=true&hide=SCSS,JavaScript)
+### 📈 Status:
+![Status](https://github-readme-stats.vercel.app/api?username=anablima&show_icons=true)
 
 #### **EN-US**
 <h1 align="center">Hi 👋, I'm Ana Beatriz :blush:</h1>
@@ -73,5 +73,5 @@
 > * [Kaggle](https://www.kaggle.com/anabflima) 
 > * [LinkedIn](https://www.linkedin.com/in/anabeatriz-lima/)
 
-### 📈 Languages with more commits:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anablima&layout=hide_border=true&theme=dracula&show_icons=true&hide=SCSS,JavaScript)
+### 📈 Status:
+![Repository’s Stats](https://github-readme-stats.vercel.app/api?username=anablima&show_icons=true)
