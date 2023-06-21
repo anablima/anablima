@@ -35,8 +35,8 @@
 > * [LinkedIn](https://www.linkedin.com/in/anabeatriz-lima/)
 
 ### 📈 Status:
-![Status](https://github-readme-stats.vercel.app/api?username=anablima&show_icons=true)
-![Linguagens +commits](https://github-readme-stats.vercel.app/api/top-langs/?username=anablima&layout=donut&langs_count=7&theme=dracula)
+![Status](https://github-readme-stats.vercel.app/api?username=anablima&show_icons=true&theme=synthwave)
+![Linguagens +commits](https://github-readme-stats.vercel.app/api/top-langs/?username=anablima&layout=donut&langs_count=7&theme=synthwave)
 
 #### **EN-US**
 <h1 align="center">Hi 👋, I'm Ana Beatriz :blush:</h1>
@@ -75,5 +75,5 @@
 > * [LinkedIn](https://www.linkedin.com/in/anabeatriz-lima/)
 
 ### 📈 Status:
-![Repository’s Stats](https://github-readme-stats.vercel.app/api?username=anablima&show_icons=true)
-![Languages +commits](https://github-readme-stats.vercel.app/api/top-langs/?username=anablima&layout=donut&langs_count=7&theme=dracula)
+![Repository’s Stats](https://github-readme-stats.vercel.app/api?username=anablima&show_icons=true&theme=synthwave)
+![Languages +commits](https://github-readme-stats.vercel.app/api/top-langs/?username=anablima&layout=donut&langs_count=7&theme=synthwave)
