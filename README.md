@@ -36,6 +36,7 @@
 
 ### 📈 Status:
 ![Status](https://github-readme-stats.vercel.app/api?username=anablima&show_icons=true)
+![Linguagens +commits](https://github-readme-stats.vercel.app/api/top-langs/?username=anablima&layout=compact&langs_count=7&theme=dracula)
 
 #### **EN-US**
 <h1 align="center">Hi 👋, I'm Ana Beatriz :blush:</h1>
@@ -75,3 +76,4 @@
 
 ### 📈 Status:
 ![Repository’s Stats](https://github-readme-stats.vercel.app/api?username=anablima&show_icons=true)
+![Languages +commits](https://github-readme-stats.vercel.app/api/top-langs/?username=anablima&layout=compact&langs_count=7&theme=dracula)
