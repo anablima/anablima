@@ -37,6 +37,7 @@
 ### 📈 Status:
 ![Status](https://github-readme-stats.vercel.app/api?username=anablima&show_icons=true&theme=buefy)
 ![Linguagens +commits](https://github-readme-stats.vercel.app/api/top-langs/?username=anablima&layout=donut&langs_count=7&theme=dracula)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/659852e6ae22c125232c9f63?variant=dark&roadmaps=devops%2Cpython%2Csql)](https://roadmap.sh)
 
 #### **EN-US**
 <h1 align="center">Hi 👋, I'm Ana Beatriz :blush:</h1>
@@ -77,3 +78,4 @@
 ### 📈 Status:
 ![Repository’s Stats](https://github-readme-stats.vercel.app/api?username=anablima&show_icons=true&theme=buefy)
 ![Languages +commits](https://github-readme-stats.vercel.app/api/top-langs/?username=anablima&layout=donut&langs_count=7&theme=dracula)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/659852e6ae22c125232c9f63?variant=dark&roadmaps=devops%2Cpython%2Csql)](https://roadmap.sh)
